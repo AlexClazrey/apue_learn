@@ -1,0 +1,4 @@
+# compile result
+*.o
+*.exe
+
